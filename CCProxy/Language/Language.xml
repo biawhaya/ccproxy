@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+ <root> 
+ <!-- Language configuration file -->
+ <LANG ITEM="CHS" VALUE="ChineseGB" URL="http://user.youngzsoft.com/ccproxy/language/chs.ini"/>
+ <LANG ITEM="CHT" VALUE="ChineseBig5" URL="http://user.youngzsoft.com/ccproxy/language/cht.ini"/>
+ <LANG ITEM="ARA" VALUE="Arabic" URL="http://user.youngzsoft.com/ccproxy/language/ara.ini"/>
+ <LANG ITEM="BGR" VALUE="Bulgarian" URL="http://user.youngzsoft.com/ccproxy/language/bgr.ini"/>
+ <LANG ITEM="CSY" VALUE="Czech" URL="http://user.youngzsoft.com/ccproxy/language/csy.ini"/>
+ <LANG ITEM="NLD" VALUE="Dutch" URL="http://user.youngzsoft.com/ccproxy/language/nld.ini"/>
+ <LANG ITEM="FRA" VALUE="French" URL="http://user.youngzsoft.com/ccproxy/language/fra.ini"/>
+ <LANG ITEM="DEU" VALUE="German" URL="http://user.youngzsoft.com/ccproxy/language/deu.ini"/>
+ <LANG ITEM="HEB" VALUE="Hebrew" URL="http://user.youngzsoft.com/ccproxy/language/heb.ini"/>
+ <LANG ITEM="ITA" VALUE="Italian" URL="http://user.youngzsoft.com/ccproxy/language/ita.ini"/>
+ <LANG ITEM="PTB" VALUE="Portuguese" URL="http://user.youngzsoft.com/ccproxy/language/ptb.ini"/>
+ <LANG ITEM="ROM" VALUE="Romanian" URL="http://user.youngzsoft.com/ccproxy/language/rom.ini"/>
+ <LANG ITEM="RUS" VALUE="Russian" URL="http://user.youngzsoft.com/ccproxy/language/rus.ini"/>
+ <LANG ITEM="ESP" VALUE="Spanish" URL="http://user.youngzsoft.com/ccproxy/language/esp.ini"/>
+ <LANG ITEM="ENU" VALUE="English" URL="http://user.youngzsoft.com/ccproxy/language/enu.ini"/>
+ <LANG ITEM="SVE" VALUE="Swedish" URL="http://user.youngzsoft.com/ccproxy/language/sve.ini"/>
+ <LANG ITEM="TRK" VALUE="Turkish" URL="http://user.youngzsoft.com/ccproxy/language/trk.ini"/>
+ <LANG ITEM="JPN" VALUE="Japanese" URL="http://user.youngzsoft.com/ccproxy/language/jpn.ini"/>
+ <LANG ITEM="HUN" VALUE="Hungarian" URL="http://user.youngzsoft.com/ccproxy/language/hun.ini"/>
+ <LANG ITEM="KOR" VALUE="Korean" URL="http://user.youngzsoft.com/ccproxy/language/kor.ini" />
+ </root> 
